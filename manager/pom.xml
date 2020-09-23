@@ -275,6 +275,14 @@
       <classifier>sources</classifier>
     </dependency>
 
+    <!-- JavaFX -->
+
+    <dependency>
+      <groupId>org.openjfx</groupId>
+      <artifactId>javafx-controls</artifactId>
+      <version>16-ea+2</version>
+    </dependency>
+
     <!-- MongoDB -->
 
     <dependency>
