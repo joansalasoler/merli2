@@ -3,6 +3,8 @@ What is it?
 
 DUC (Disseny Unitari del Currículum) is a set of tools aimed at managing a catalog of educational resources using standard Learning Object Metadata (LOM) definitions. It includes a LOM ontology editor implemented on top of [WebProtégé](https://github.com/protegeproject/webprotege).
 
+![Demo](https://raw.githubusercontent.com/joansalasoler/assets/master/demos/merli-2.0.gif)
+
 This project was developed for XTEC and funded by the Government of Catalonia as a replacement of their current toolset. I never go the chance to finish the development of this toolset, although most of the included tools are fully functional. See the main repositories of [Merlí](https://github.com/projectestac/merli) and [Merlí 2.0](https://github.com/projectestac/merli2) for the current status of development.
 
 Tool set description
